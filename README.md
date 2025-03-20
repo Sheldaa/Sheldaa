@@ -13,6 +13,8 @@ I'm a Data Scientist graduated from the Federal University of Ceará (UFC). I ha
     height="190"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheldaa&layout=compact&count_private=true&locale=pt-br&theme=buefy"
 />
+
+## 🤖 Technologies & languages
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="50"/>
 <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" height="50"/>
